@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona</string>
+    <string name="correct_answer">Poprawna odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna odpowiedź</string>
+    <string name="q_sys">Android jest systemem stworzonym przez Apple</string>
+    <string name="q_version">Android 10 jest najnowszą wersją</string>
+    <string name="q_history">Pierwsza wersja IOS została wydana wcześniej niż androida</string>
+    <string name="q_open">IOS jest otwartym systemem tak jak android</string>
+    <string name="q_four">Android w wersji 4.4 nazwany został "KitKat"</string>
+</resources>
