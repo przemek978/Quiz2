@@ -51,9 +51,11 @@ public class MainActivity extends AppCompatActivity {
         trueButton=findViewById(R.id.true_button);
         falseButton=findViewById(R.id.false_button);
         nextButton=findViewById(R.id.next_button);
-        promptButton=findViewById(R.id.answer_button);
         questionTextView=findViewById(R.id.question_text_view);
         counterTextView=findViewById(R.id.counter_text_view);
+
+        promptButton=findViewById(R.id.answer_button);
+
         promptButton.setOnClickListener((v)->{
             Intent intent=new Intent( MainActivity.this, PromptActivity.class);
             boolean correctAnswer=questions[currentIndex].isTrueAnswer();
@@ -66,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 checkAnswerCorrectness(true);
                 checkpoint();
                 currentIndex = (currentIndex + 1) % questions.length;
+                answerWasShown=false;
                 setNextQuestion();
             }
 
@@ -76,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
                 checkAnswerCorrectness(false);
                 checkpoint();
                 currentIndex = (currentIndex + 1) % questions.length;
+                answerWasShown=false;
                 setNextQuestion();
             }
         });
@@ -139,7 +143,7 @@ public class MainActivity extends AppCompatActivity {
     public void checkpoint()
     {
         if(((currentIndex + 1)%questions.length)==0){
-            String a="Uzyskałes "+Counter+ " pkt";
+            String a="Uzyskałes "+ Counter + " pkt";
             Toast.makeText(getBaseContext(),a, Toast.LENGTH_SHORT).show();
             Counter=0;
         }
