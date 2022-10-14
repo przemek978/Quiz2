@@ -1,0 +1,30 @@
+--------- beginning of main
+--------- beginning of system
+---------------------------- PROCESS STARTED (9563) for package pl.edu.pb.wi ----------------------------
+2022-10-13 12:37:59.576  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda cyklu życia: onCreate
+2022-10-13 12:37:59.675  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:37:59.677  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:37:59.691  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  setView = com.android.internal.policy.DecorView@4890701 TM=true
+2022-10-13 12:37:59.719  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)0 dur=7 res=0x7 s={true 496816937952} ch=true fn=-1
+2022-10-13 12:37:59.724  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:37:59.752  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:37:59.752  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:37:59.752  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:37:59.776  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1
+po obróceniu
+2022-10-13 12:38:10.762  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-13 12:38:10.763  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(true) old=false
+2022-10-13 12:38:10.764  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-13 12:38:10.766  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onSaveInstanceState
+2022-10-13 12:38:10.767  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-13 12:38:10.772  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  dispatchDetachedFromWindow
+2022-10-13 12:38:10.798  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda cyklu życia: onCreate
+2022-10-13 12:38:10.840  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:38:10.841  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:38:10.849  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  setView = com.android.internal.policy.DecorView@cc138c2 TM=true
+2022-10-13 12:38:10.869  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,2280,1080) new=(116,0,2280,1080) req=(2280,1080)0 dur=9 res=0x7 s={true 496817103632} ch=true fn=-1
+2022-10-13 12:38:10.874  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:38:10.889  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:38:10.889  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:38:10.889  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:38:10.909  9563-9563  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1

@@ -1,0 +1,58 @@
+--------- beginning of main
+--------- beginning of system
+---------------------------- PROCESS STARTED (8827) for package pl.edu.pb.wi ----------------------------
+2022-10-13 12:34:26.056  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana zostałą metoda cyklu życia: onCreate
+2022-10-13 12:34:26.156  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:34:26.158  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:34:26.173  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  setView = com.android.internal.policy.DecorView@4890701 TM=true
+2022-10-13 12:34:26.198  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)0 dur=5 res=0x7 s={true 496816937952} ch=true fn=-1
+2022-10-13 12:34:26.203  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:34:26.232  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:34:26.232  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:34:26.232  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:34:26.250  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1
+2.
+2022-10-13 12:34:55.329  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  ViewPostIme pointer 0
+2022-10-13 12:34:55.729  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  ViewPostIme key 0
+2022-10-13 12:34:55.732  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  ViewPostIme key 1
+2022-10-13 12:34:55.751  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-13 12:34:55.768  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 0 1
+2022-10-13 12:34:56.155  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  handleAppVisibility mAppVisible=true visible=false
+2022-10-13 12:34:56.183  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)8 dur=4 res=0x5 s={false 0} ch=true fn=5
+2022-10-13 12:34:56.186  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(true) old=false
+2022-10-13 12:34:56.188  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-13 12:34:56.192  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onSaveInstanceState
+3.
+2022-10-13 12:35:26.451  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  handleAppVisibility mAppVisible=false visible=true
+2022-10-13 12:35:26.501  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)4 dur=32 res=0x1 s={false 0} ch=false fn=-1
+2022-10-13 12:35:26.502  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(false) old=true
+2022-10-13 12:35:26.503  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:35:26.504  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(false) old=false
+2022-10-13 12:35:26.504  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:35:26.523  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)0 dur=4 res=0x7 s={true 496816937952} ch=true fn=-1
+2022-10-13 12:35:26.524  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:35:26.536  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:35:26.536  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:35:26.536  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:35:26.545  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1
+4.
+2022-10-13 12:35:45.822  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  ViewPostIme pointer 0
+2022-10-13 12:35:45.907  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 0 1
+2022-10-13 12:35:46.765  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-13 12:35:46.765  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  handleAppVisibility mAppVisible=true visible=false
+2022-10-13 12:35:46.795  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)8 dur=12 res=0x5 s={false 0} ch=true fn=4
+2022-10-13 12:35:46.796  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(true) old=false
+2022-10-13 12:35:46.799  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-13 12:35:46.801  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onSaveInstanceState
+5.
+2022-10-13 12:36:01.670  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(false) old=true
+2022-10-13 12:36:01.674  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:36:01.677  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(false) old=false
+2022-10-13 12:36:01.677  8827-8827  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:36:01.680  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  handleAppVisibility mAppVisible=false visible=true
+2022-10-13 12:36:01.699  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)0 dur=7 res=0x7 s={true 496816937952} ch=true fn=-1
+2022-10-13 12:36:01.700  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:36:01.719  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:36:01.719  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:36:01.719  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:36:01.735  8827-8827  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1

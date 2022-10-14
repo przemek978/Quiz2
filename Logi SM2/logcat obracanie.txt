@@ -1,0 +1,27 @@
+--------- beginning of main
+--------- beginning of system
+---------------------------- PROCESS STARTED (8320) for package pl.edu.pb.wi ----------------------------
+2022-10-13 12:27:07.147  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:27:07.149  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:27:07.164  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  setView = com.android.internal.policy.DecorView@629e4fc TM=true
+2022-10-13 12:27:07.190  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,1080,2280) new=(0,0,1080,2280) req=(1080,2280)0 dur=5 res=0x7 s={true 496816937952} ch=true fn=-1
+2022-10-13 12:27:07.194  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:27:07.227  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:27:07.227  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:27:07.227  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:27:07.248  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1
+po obróceniu
+2022-10-13 12:27:21.248  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onPause
+2022-10-13 12:27:21.249  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  stopped(true) old=false
+2022-10-13 12:27:21.251  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStop
+2022-10-13 12:27:21.253  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onDestroy
+2022-10-13 12:27:21.261  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  dispatchDetachedFromWindow
+2022-10-13 12:27:21.334  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
+2022-10-13 12:27:21.335  8320-8320  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
+2022-10-13 12:27:21.344  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  setView = com.android.internal.policy.DecorView@497c8d1 TM=true
+2022-10-13 12:27:21.364  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  Relayout returned: old=(0,0,2280,1080) new=(116,0,2280,1080) req=(2280,1080)0 dur=9 res=0x7 s={true 496817086192} ch=true fn=-1
+2022-10-13 12:27:21.368  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] dp(1) 1 android.view.ViewRootImpl.reportNextDraw:11261 android.view.ViewRootImpl.performTraversals:4088 android.view.ViewRootImpl.doTraversal:2832 
+2022-10-13 12:27:21.382  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] pdf(0) 1 android.view.ViewRootImpl.lambda$createFrameCompleteCallback$3$ViewRootImpl:4846 android.view.ViewRootImpl$$ExternalSyntheticLambda15.run:6 android.os.Handler.handleCallback:938 
+2022-10-13 12:27:21.382  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  [DP] rdf()
+2022-10-13 12:27:21.382  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         D  reportDrawFinished (fn: -1) 
+2022-10-13 12:27:21.393  8320-8320  ViewRootIm...nActivity] pl.edu.pb.wi                         I  MSG_WINDOW_FOCUS_CHANGED 1 1
