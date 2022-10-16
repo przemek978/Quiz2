@@ -49,4 +49,4 @@ Po dodaniu metody onSaveInstanceState i modyfikacji OnCreate
 2022-10-13 12:38:10.840  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onStart
 2022-10-13 12:38:10.841  9563-9563  MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: onResume
 
-Po modyfikacji metody on create i dodaniu OnSaveInstanceState i obróceniu ekranu aplikacja zapisuje swój stan i aktualne pytanie zostaje zapisane. Przed dododaniem tych metod obróćenie powodowało utrate stanu apliakcji
+Po modyfikacji metody onCreate i dodaniu OnSaveInstanceState. Gdy ekran aplikacji zostanie obrócony, aplikacja zapisuje swój stan i aktualne pytanie zostaje zapisane. Przed dododaniem tych metod obróćenie powodowało utrate stanu apliakcji, gdzie powodowało to powrót do pierwszego pytania.
